@@ -1,1 +1,0 @@
-# Multi-Class-Abnormality-Detection-in-Video-Capsule-Endoscopy-Images
